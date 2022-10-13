@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS pratice_db;
+
+CREATE DATABASE pratice_db;
